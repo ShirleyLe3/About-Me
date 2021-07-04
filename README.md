@@ -1,3 +1,6 @@
+[add cool app here using raw.githubusercontent.com/ (ie, block change, music shuffle,)]
+
+
 <h1 align="center">Shirley Lee</h1>
 
 <div align="center">
@@ -7,70 +10,71 @@
   <strong>Full Stack Web Developer</strong>
 </div>
 <div align="center">
-  A <code>Meep</code> I'm a software engineer who is passionate about creating open-source more accessible, using technology to connect and organize people, and build community! </div>
+  A software enthusiast who is passionate about creating open-source tools, using technology to connect and organize people, and build community! </div>
 
 <br />
 
 <div align="center">
   <!-- ReactJS/HTML/CSS -->
-  <a href="https://nodejs.org/api/documentation.html#documentation_stability_index">
+  <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/stability-experimental-orange.svg?style=flat-square"
-      alt="API stability" />
+      alt="ReactJS/HTML/CSS" />
   </a>
   <!-- NodeJS -->
-  <a href="https://npmjs.org/package/choo">
+  <a href="https://nodejs.org/en/about/">
     <img src="https://img.shields.io/npm/v/choo.svg?style=flat-square"
-      alt="NPM version" />
+      alt="NodeJS" />
   </a>
-  <!-- SQL -->
-  <a href="https://travis-ci.org/choojs/choo">
+  <!-- SQL/Neo4j -->
+  <a href="https://www.sqlite.com/about.html">
+<!--   <a href="https://neo4j.com/"> -->
     <img src="https://img.shields.io/travis/choojs/choo/master.svg?style=flat-square"
-      alt="Build Status" />
+      alt="SQL/Neo4j" />
   </a>
   <!-- Data Structures -->
-  <a href="https://codecov.io/github/choojs/choo">
+  <a href="https://www.geeksforgeeks.org/data-structures/">
     <img src="https://img.shields.io/codecov/c/github/choojs/choo/master.svg?style=flat-square"
-      alt="Test Coverage" />
+      alt="Data Structures" />
   </a>
   <!-- Github -->
-  <a href="https://npmjs.org/package/choo">
+  <a href="https://github.com/enterprise">
     <img src="https://img.shields.io/npm/dt/choo.svg?style=flat-square"
-      alt="Download" />
+      alt="Github" />
   </a>
   <!-- Visual Basics -->
-  <a href="https://standardjs.com">
+  <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/">
     <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square"
-      alt="Standard" />
+      alt="Visual Basics" />
   </a>
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://choo.io">
+    <a href="https://google.com">
       Website
     </a>
     <span> | </span>
-    <a href="https://github.com/choojs/choo-handbook">
-      Handbook
+    <a href="https://www.linkedin.com/in/shirley-l-b30954183/">
+      LinkedIn
     </a>
     <span> | </span>
-    <a href="https://github.com/YerkoPalma/awesome-choo">
-      Ecosystem
+    <a href="https://github.com/ShirleyLe3/repositories">
+      Projects
     </a>
     <span> | </span>
     <!-- <a href="https://github.com/trainyard/choo-cli"> -->
     <!--   CLI -->
     <!-- </a> -->
     <!-- <span> | </span> -->
-    <a href="https://github.com/choojs/choo/blob/master/.github/CONTRIBUTING.md">
-      Contributing
+    <a href="https://codepen.io">
+      Apps
     </a>
     <span> | </span>
-    <a href="https://www.reddit.com/r/choojs/">
-      Reddit
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdLXc8BDyD2w5-LXNl5-Elx6BtYjzd94NEsgbtO7MgQ23-2Vg/viewform">
+      Contact
     </a>
     <span> | </span>
-    <a href="https://webchat.freenode.net/?channels=choo">
+    <a href="https://discord.com">
       Chat
     </a>
   </h3>
