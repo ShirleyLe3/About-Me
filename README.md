@@ -4,9 +4,6 @@
 <h1 align="center">Shirley Lee</h1>
 
 <div align="center">
-  ::computer::computer::computer::computer:💻:
-</div>
-<div align="center">
   <strong>Full Stack Web Developer</strong>
 </div>
 <div align="center">
@@ -82,24 +79,25 @@
 
 <div align="center">
   <sub>The little framework that could. Built with ❤︎ by
-  <a href="https://twitter.com/yoshuawuyts">Yoshua Wuyts</a> and
-  <a href="https://github.com/choojs/choo/graphs/contributors">
-    contributors
+  <a href="https://google.com">Me</a> and
+  <a href="https://google.com">
+    Friends
   </a>
 </div>
+<div align="center">
+  ::computer::computer::computer::computer:💻:
+</div>  
 
 ## Projects
-- [Features](#features)
-- [Example](#example)
-- [Philosophy](#philosophy)
+- [Discord Bot](#discordbot)
+- [Extension](#extension)
+- [WebPage](#webpage)
 
 
 ## What I'm Working On
-- __minimal size:__ weighing `4kb`, Choo is a tiny little framework
-- __event based:__ our performant event system makes writing apps easy
+- __Slide:__ habit-tracker application using Swift or .NET
+- __Potato:__ meep
+  
+## What I'm Learning
+- __Linux Terminal:__ learning command-line to navigate through files  
 
-
-###I am currently working on
-###I'm currently learning
-###I'm looking to collaborate on
-###How to reach me
