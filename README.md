@@ -46,11 +46,11 @@
 </div>
 
 <div align="center">
-  <sub>The Projects
-  <a href="https://google.com">Me</a> and
+  <sub>Projects Inspired by Others
+<!--   <a href="https://google.com">Me</a> and
   <a href="https://google.com">
     Friends
-  </a>
+  </a> -->
 </div>
 <div align="center">
   ::computer::computer::computer::computer:💻:
