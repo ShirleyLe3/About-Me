@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-  <sub>The little framework that could. Built with ❤︎ by
+  <sub>The Projects
   <a href="https://google.com">Me</a> and
   <a href="https://google.com">
     Friends
@@ -57,15 +57,16 @@
 </div>  
 
 ## Projects
-- [Discord Bot](#discordbot)
-- [Extension](#extension)
-- [WebPage](#webpage)
+- [Discord Bot](#Compendium-Bot)
+- [Extension](#EncoderExtension)
+- [TexttoSpeech](#Inflow-Audio)
 
 
 ## What I'm Working On
-- __Slide:__ habit-tracker application using Swift or .NET
-- __Potato:__ meep
+- __Change:__ habit-tracker application using Swift
+- __Text-to-Speech:__ new features connecting to wikipedia API
   
 ## What I'm Learning
-- __Linux Terminal:__ learning command-line to navigate through files  
+- __Linux Terminal:__ learning command-line to navigate through files 
+  __Data Structures:__ training for optimization in algorithm solutions
 
