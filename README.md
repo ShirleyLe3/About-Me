@@ -57,8 +57,8 @@
 </div>  
 
 ## Projects
-- [Discord Bot](#Compendium-Bot)
-- [Extension](#EncoderExtension)
+- [Discord Bot](https://github.com/ShirleyLe3/Compendium-Bot)
+- [Extension](https://github.com/ShirleyLe3/EncoderExtension)
 - [TexttoSpeech](https://github.com/ShirleyLe3/Inflow-Audio)
 
 
