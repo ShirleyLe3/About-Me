@@ -23,7 +23,7 @@
       LinkedIn
     </a>
     <span> | </span>
-    <a href="https://github.com/ShirleyLe3/repositories">
+    <a href="https://github.com/ShirleyLe3/About-Me#Projects">
       Projects
     </a>
     <span> | </span>
