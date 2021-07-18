@@ -68,5 +68,5 @@
   
 ## What I'm Learning
 - __Linux Terminal:__ learning command-line to navigate through files 
-  __Data Structures:__ training for optimization in algorithm solutions
+- __Data Structures:__ training for optimization in algorithm solutions
 
