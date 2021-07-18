@@ -59,7 +59,7 @@
 ## Projects
 - [Discord Bot](#Compendium-Bot)
 - [Extension](#EncoderExtension)
-- [TexttoSpeech](#Inflow-Audio)
+- [TexttoSpeech](https://github.com/ShirleyLe3/Inflow-Audio)
 
 
 ## What I'm Working On
