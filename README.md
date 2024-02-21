@@ -31,13 +31,13 @@
 
 
 
-<h1 align="center">Hello World </h3>
+<h1 align="center">Software Solutions </h3>
 
 
 
 <a href="#"><img width="100%" height="auto" src="[https://user-images.githubusercontent.com/71117423/224528526-3df67bef-ad08-4a24-ad88-60fadbc2daee.png](https://wallpaperaccess.com/full/5675758.jpg)" height="175px"/></a>
 
-<img align="right" alt="Coding" width="350" height = "350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdkMGVjNGM1OTM3NDZiODJlOWQ1YzEwM2E4Njk4YTIwMjg0YWI1NiZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif">
+<img align="right" alt="Coding" width="350" height = "350" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdkMGVjNGM1OTM3NDZiODJlOWQ1YzEwM2E4Njk4YTIwMjg0YWI1NiZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif](https://image.lexica.art/full_webp/998e6d54-7172-431c-a901-740f576519d4)">
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&margin-w=5&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
  -->
@@ -45,8 +45,8 @@
 <!-- https://user-images.githubusercontent.com/71117423/224529205-b41f3863-5588-4d2b-9c37-78c5be4cde65.mp4
  -->
 
- <h1 align="center">HEY<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0.5px">, I'm Shirley L</h1>
-<h3 align="center">Enthusiastic Technologist</h3>
+ <h1 align="center">Hello World, I'm Shirley. Nice to meet you.</h1>
+<h3 align="center">Techno-solutions Entrepreneur</h3>
 
 
 - 🌱 I’m currently learning **Python , Machine learning, **
@@ -66,7 +66,7 @@
  <a href="https://voidnes.com" target="blank"><img align="center" src="https://user-images.png" height="40" width="40" /></a>
  
 
-<h1 align="center">Shirley L</h1>
+<h1 align="center">Shirley </h1>
 
 <div align="center">
   <strong>Full Stack Web Developer</strong>
