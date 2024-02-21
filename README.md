@@ -17,7 +17,9 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-## ❤ Views and Followers
+
+
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ShirleyLe3">
 </a>
@@ -31,28 +33,23 @@
 <h1 align="center">Software Solutions </h3>
 
 
-
-<a href="#"><img width="100%" height="auto" src="[https://user-images.githubusercontent.com/71117423/224528526-3df67bef-ad08-4a24-ad88-60fadbc2daee.png](https://wallpaperaccess.com/full/5675758.jpg)" height="175px"/></a>
-
-<img align="right" alt="Coding" width="350" height = "350" src="[https://image.lexica.art/full_webp/998e6d54-7172-431c-a901-740f576519d4]">
-
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&margin-w=5&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
  -->
 
 <!-- https://user-images.githubusercontent.com/71117423/224529205-b41f3863-5588-4d2b-9c37-78c5be4cde65.mp4
  -->
 
- <h3 align="center">Web Development MERN Stack</h3>
+ <h3 align="center">Techno-solutions Entrepreneur</h3>
 
 
 
  <a href="https://voidnes.com" target="blank"><img align="center" src="https://user-images.png" height="40" width="40" /></a>
  
 
-<h1 align="center">Techno-solutions Entrepreneur</h1>
+<h2 align="center">Shirley Lee</h2>
 
 <div align="center">
-  <strong>Shirley Lee</strong>
+  <strong>Web Development | Fullstack |  MERN </strong>
 </div>
 <div align="center">
   A software enthusiast who is passionate about solving problems and using new technologies. </div>
@@ -114,8 +111,8 @@
 
 
 
+![image](https://github.com/ShirleyLe3/About-Me/assets/60081493/5b653141-0e9b-4dd5-acb3-09d491d4a077)
 
-![image](https://github.com/ShirleyLe3/About-Me/assets/60081493/bcf1e9cb-55bf-4f2d-bfe2-315dc19f1a4f)
 
 
 <h3 align="left">Languages and Tools:</h3>
