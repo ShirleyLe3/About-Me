@@ -14,9 +14,7 @@
     <a href="https://github.com/ShirleyLe3/github-readme-stats"><img alt="Shirley's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShirleyLe3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/ShirleyLe3/github-readme-stats"><img alt="Rakshit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirleyLe3&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
+  
 
 
 
@@ -29,22 +27,17 @@
 
 
 
+![image](https://github.com/ShirleyLe3/About-Me/assets/60081493/5b653141-0e9b-4dd5-acb3-09d491d4a077)
 
 <h1 align="center">Software Solutions </h3>
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&margin-w=5&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
  -->
-
 <!-- https://user-images.githubusercontent.com/71117423/224529205-b41f3863-5588-4d2b-9c37-78c5be4cde65.mp4
  -->
 
  <h3 align="center">Techno-solutions Entrepreneur</h3>
-
-
-
- <a href="https://voidnes.com" target="blank"><img align="center" src="https://user-images.png" height="40" width="40" /></a>
- 
 
 <h2 align="center">Shirley Lee</h2>
 
@@ -90,19 +83,7 @@
   </h3>
 </div>
 
-<div align="center">
-  <sub>Projects Inspired by Others
-<!--   <a href="https://google.com">Me</a> and
-  <a href="https://google.com">
-    Friends
-  </a> -->
-</div>
-<div align="center">
-  ::computer::computer::computer::computer:💻:
-</div>  
 
-  
-  
   
 ## Projects
 - [Discord Bot](https://github.com/ShirleyLe3/Compendium-Bot)
@@ -110,8 +91,8 @@
 - [TexttoSpeech](https://github.com/ShirleyLe3/Inflow-Audio)
 
 
+![image](https://github.com/ShirleyLe3/About-Me/assets/60081493/4962699c-d477-4201-abf8-53de89b94ba9)
 
-![image](https://github.com/ShirleyLe3/About-Me/assets/60081493/5b653141-0e9b-4dd5-acb3-09d491d4a077)
 
 
 
